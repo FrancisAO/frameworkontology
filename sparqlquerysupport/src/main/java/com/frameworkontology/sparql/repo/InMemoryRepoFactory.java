@@ -1,7 +1,5 @@
 package com.frameworkontology.sparql.repo;
 
-import java.io.File;
-
 import org.eclipse.rdf4j.repository.sail.SailRepository;
 import org.eclipse.rdf4j.sail.inferencer.fc.SchemaCachingRDFSInferencer;
 import org.eclipse.rdf4j.sail.memory.MemoryStore;

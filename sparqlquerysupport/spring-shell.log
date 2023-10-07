@@ -36,3 +36,8 @@
 1696713390142:help
 1696713403452:set-query-file C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
 1696713409260:execute
+1696716486634:help
+1696716497618:set-ontology C:\\\\private_root\\\\progs\\\\sparql-shell\\\\helloworld.rdf
+1696716509808:set-query-file C:\\\\private_root\\\\progs\\\\sparql-shell\\\\SparqlQuery.txt
+1696716511951:execute
+1696716596713:exit
