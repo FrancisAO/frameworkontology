@@ -1,0 +1,38 @@
+1696591569100:help
+1696591579879:set-ontology "C:\\private_root\\eclipse-workspace-ontolgy-framework\\helloworld\\helloworld.rdf"
+1696591627305:set-ontology C:\\private_root\\eclipse-workspace-ontolgy-framework\\helloworld\\src\\main\\resources\\helloworld.rdf
+1696591747453:set-ontology C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\helloworld\\\\src\\main\\resources\\\\helloworld.rdf
+1696591825024:set-ontology C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\helloworld\\\\src\\\\main\\\\resources\\\\helloworld.rdf
+1696594900728:help
+1696594959825:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696595390098:set-ontology C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\helloworld\\\\src\\\\main\\\\resources\\\\helloworld.rdf
+1696595433478:execute-query C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696595446280:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696595448388:stacktrace
+1696595583863:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696595591948:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696595604452:stacktrace
+1696595916031:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696595931893:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696596025104:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696596040323:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696596045098:stacktrace
+1696596079744:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696596091422:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696596193539:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\
+1696596205973:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696596219994:stacktrace
+1696668506242:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\
+1696668522833:help
+1696668531118:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696669150149:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696669162798:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696669961815:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696669979547:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696670057761:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696670067363:execute-sparql C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696713328493:help
+1696713339012:set-ontology C:\\\\Users\\\\franc\\\\frameworkontology\\\\helloworld.rdf
+1696713390142:help
+1696713403452:set-query-file C:\\\\private_root\\\\eclipse-workspace-ontolgy-framework\\\\sparqlquerysupport\\\\src\\\\main\\\\resources\\\\SparqlQuery.txt
+1696713409260:execute

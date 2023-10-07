@@ -1,0 +1,2 @@
+C:\\Users\\franc\\frameworkontology\\helloworld.rdf
+C:\\private_root\\eclipse-workspace-ontolgy-framework\\sparqlquerysupport\\src\\main\\resources\\SparqlQuery.txt
